@@ -2,18 +2,32 @@
 
 <div align="center">
 
-## 🚀 Founder & Developer do aluno.dev
+# 🚀 Founder & Software Engineer
 
-### Construindo a maior comunidade para estudantes de tecnologia do Brasil
+### Founder da aluno.dev & Koodei
 
 <br>
 
-<img src="https://img.shields.io/badge/Backend-Developer-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Fullstack-Engineer-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-Builder-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Startup-Founder-FF6B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Founder-FF6B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software-Engineer-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Developer-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fullstack-Developer-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Builder-0F172A?style=for-the-badge"/>
 
 </div>
+
+---
+
+# 🧠 Sobre mim
+
+Sou estudante de Engenharia de Software e fundador de projetos focados em tecnologia, comunidade e impacto real.
+
+Atualmente lidero:
+
+* 🚀 **aluno.dev** → Plataforma social para estudantes de tecnologia
+* 🏢 **Koodei** → Startup especializada no desenvolvimento de soluções para educação, marketing e mercado empresarial
+
+Meu foco está em construir produtos escaláveis com visão de negócio, experiência de usuário e comunidade.
 
 ---
 
@@ -21,17 +35,27 @@
 
 <div align="center">
 
-## 🌐 https://aluno.dev
+# 🌐 https://aluno.dev
 
-### Plataforma social criada para estudantes de tecnologia acelerarem suas carreiras ainda na faculdade.
+### Plataforma criada para conectar estudantes de tecnologia de todo o Brasil.
 
 </div>
 
-<br>
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,python,git,github,vscode"/>
-</p>
+# 📈 Crescimento da Plataforma
+
+<div align="center">
+
+| Métrica                    | Resultado                  |
+| -------------------------- | -------------------------- |
+| 👥 Usuários registrados    | +200 estudantes            |
+| 🏫 Instituições alcançadas | Diversas pelo Brasil       |
+| 📰 Postagens diárias       | Dezenas todos os dias      |
+| 💼 Vagas compartilhadas    | Ativamente publicadas      |
+| 🚀 Produtos divulgados     | MySaaS já em funcionamento |
+
+</div>
 
 ---
 
@@ -43,13 +67,13 @@ Muitos estudantes de tecnologia:
 ❌ Não possuem networking
 ❌ Não sabem como entrar no mercado
 ❌ Não conseguem oportunidades reais
-❌ Não têm visibilidade profissional
+❌ Não possuem experiência prática
 
 ---
 
 # 💡 A solução
 
-O **aluno.dev** conecta estudantes de tecnologia de todo o Brasil através de:
+O **aluno.dev** une comunidade, aprendizado e oportunidades reais em uma única plataforma.
 
 <div align="center">
 
@@ -65,36 +89,37 @@ O **aluno.dev** conecta estudantes de tecnologia de todo o Brasil através de:
 
 <div align="center">
 
-| Feature                      | Status                |
-| ---------------------------- | --------------------- |
-| 🧑‍💻 Perfil de estudante    | 🚧 Em desenvolvimento |
-| 📰 Feed social               | 🚧                    |
-| 💬 Comentários e interações  | 🚧                    |
-| 🎓 Comunidades por faculdade | 🚧                    |
-| 💼 Compartilhamento de vagas | 🚧                    |
-| 🏆 Sistema de reputação      | 🔥 Planejado          |
+| Feature                               | Status               |
+| ------------------------------------- | -------------------- |
+| 🧑‍💻 Perfil de estudante             | ✅ Online             |
+| 📰 Feed social                        | ✅ Funcionando        |
+| 💬 Comentários e interações           | ✅ Ativo              |
+| 🎓 Comunidades por faculdade          | ✅ Disponível         |
+| 💼 Compartilhamento de vagas          | ✅ Online             |
+| 🚀 MySaaS para divulgação de produtos | ✅ Funcionando        |
+| 🏆 Sistema de reputação               | 🚀 Expansão contínua |
 
 </div>
 
 ---
 
-# 🧠 Stack Principal
+# 🧠 Tecnologias & Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,python,postgres,docker,git,github"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,python,postgres,docker,git,github,vscode"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lferreiraeng&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lferreiraeng&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lferreiraeng&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lferreiraeng&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -102,19 +127,20 @@ O **aluno.dev** conecta estudantes de tecnologia de todo o Brasil através de:
 
 # 🚀 Objetivo
 
-Construir produtos que gerem impacto real na vida das pessoas através de:
+Construir soluções tecnológicas que gerem impacto real através de:
 
-* Tecnologia
-* Comunidade
-* Dados
-* Inteligência Artificial
 * Educação
+* Comunidade
+* Inteligência Artificial
+* Networking
+* Produtos SaaS
+* Dados e automação
 
 ---
 
 # 🌎 Visão
 
-Transformar o **aluno.dev** na principal rede de estudantes de tecnologia da América Latina.
+Transformar o **aluno.dev** em uma das maiores comunidades estudantis de tecnologia da América Latina.
 
 ---
 
@@ -122,7 +148,9 @@ Transformar o **aluno.dev** na principal rede de estudantes de tecnologia da Am�
 
 <div align="center">
 
-📧 **Email:** <a href="mailto:lferreiradev@gmail.com">[lferreiradev@gmail.com](mailto:lferreiradev@gmail.com)</a>
+### 📧 Email
+
+<a href="mailto:lferreiradev@gmail.com">[lferreiradev@gmail.com](mailto:lferreiradev@gmail.com)</a>
 
 <br><br>
 
@@ -136,6 +164,6 @@ Transformar o **aluno.dev** na principal rede de estudantes de tecnologia da Am�
 
 <div align="center">
 
-## 💡 “Para estudantes, por estudantes.”
+# 💡 “Para estudantes, por estudantes.”
 
 </div>
