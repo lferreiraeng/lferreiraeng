@@ -1,81 +1,141 @@
-# 👋 Olá, eu sou o Lucas Ferreira
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Olá, eu sou o Lucas Ferreira
 
-💻 Estudante de Engenharia de Software
-🚀 Desenvolvedor Backend & Fullstack
-📊 Background em Marketing, Dados e Inteligência Artificial
+<div align="center">
 
-Sou apaixonado por tecnologia e por construir soluções que conectam pessoas, dados e oportunidades.
-Atualmente focado em desenvolvimento de aplicações reais, com visão de produto e negócio.
+## 🚀 Founder & Developer do aluno.dev
+
+### Construindo a maior comunidade para estudantes de tecnologia do Brasil
+
+<br>
+
+<img src="https://img.shields.io/badge/Backend-Developer-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fullstack-Engineer-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Builder-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Startup-Founder-FF6B00?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🚀 Projeto em destaque
+# 🔥 Projeto Principal — aluno.dev
 
-### 🔥 aluno.dev
+<div align="center">
 
-> Plataforma social para estudantes de tecnologia construírem carreira ainda na faculdade.
+## 🌐 https://aluno.dev
 
-O **aluno.dev** é uma plataforma criada para ajudar estudantes a:
+### Plataforma social criada para estudantes de tecnologia acelerarem suas carreiras ainda na faculdade.
 
-* Fazer networking
-* Compartilhar conhecimento
-* Encontrar oportunidades de estágio
-* Construir reputação profissional
+</div>
 
-### 🎯 Problema
+<br>
 
-Muitos estudantes:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,python,git,github,vscode"/>
+</p>
 
-* Estudam sozinhos
-* Não têm networking
-* Não sabem como entrar no mercado
+---
 
-### 💡 Solução
+# 🎯 O problema
 
-Uma plataforma que une:
+Muitos estudantes de tecnologia:
 
+❌ Estudam sozinhos
+❌ Não possuem networking
+❌ Não sabem como entrar no mercado
+❌ Não conseguem oportunidades reais
+❌ Não têm visibilidade profissional
+
+---
+
+# 💡 A solução
+
+O **aluno.dev** conecta estudantes de tecnologia de todo o Brasil através de:
+
+<div align="center">
+
+| 🌎 Comunidade | 💬 Networking | 💼 Oportunidades |
+| ------------- | ------------- | ---------------- |
+| 🎓 Conteúdo   | 🚀 Reputação  | 🧠 Aprendizado   |
+
+</div>
+
+---
+
+# ⚙️ Funcionalidades
+
+<div align="center">
+
+| Feature                      | Status                |
+| ---------------------------- | --------------------- |
+| 🧑‍💻 Perfil de estudante    | 🚧 Em desenvolvimento |
+| 📰 Feed social               | 🚧                    |
+| 💬 Comentários e interações  | 🚧                    |
+| 🎓 Comunidades por faculdade | 🚧                    |
+| 💼 Compartilhamento de vagas | 🚧                    |
+| 🏆 Sistema de reputação      | 🔥 Planejado          |
+
+</div>
+
+---
+
+# 🧠 Stack Principal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,python,postgres,docker,git,github"/>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lferreiraeng&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lferreiraeng&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Objetivo
+
+Construir produtos que gerem impacto real na vida das pessoas através de:
+
+* Tecnologia
 * Comunidade
-* Conteúdo
-* Oportunidades reais
+* Dados
+* Inteligência Artificial
+* Educação
 
 ---
 
-## ⚙️ Funcionalidades do aluno.dev
+# 🌎 Visão
 
-* 🧑‍💻 Perfil de estudante
-* 📰 Feed com posts
-* 💬 Interações (comentários, engajamento)
-* 🎓 Comunidades por curso
-* 💼 Compartilhamento de vagas
+Transformar o **aluno.dev** na principal rede de estudantes de tecnologia da América Latina.
 
 ---
 
-## 🧠 Tecnologias
+# 📫 Contato
 
-* TypeScript / JavaScript
-* Node.js
-* React
-* Python
-* Git & GitHub
+<div align="center">
 
----
+📧 **Email:** <a href="mailto:lferreiradev@gmail.com">[lferreiradev@gmail.com](mailto:lferreiradev@gmail.com)</a>
 
-## 📊 Estatísticas
+<br><br>
 
-![stats](https://github-readme-stats.vercel.app/api?username=lferreiraeng\&show_icons=true\&theme=dark)
+<a href="https://aluno.dev">
+  <img src="https://img.shields.io/badge/aluno.dev-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
----
-
-## 🎯 Objetivo
-
-Me tornar um desenvolvedor completo, capaz de construir sistemas escaláveis e resolver problemas reais através da tecnologia.
+</div>
 
 ---
 
-## 📫 Contato
+<div align="center">
 
-📧 [lferreiradev@gmail.com](mailto:lferreiradev@gmail.com)
+## 💡 “Para estudantes, por estudantes.”
 
----
-
-> 💡 “Para estudantes, por estudantes.”
+</div>
